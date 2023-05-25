@@ -1,0 +1,7 @@
+C:\Users\305-8\Desktop\Zhbanchikov\УП 01.01\Работа с классвми\Работа с классами(Консоль)\bin\Debug\Работа с классами(Консоль).exe.config
+C:\Users\305-8\Desktop\Zhbanchikov\УП 01.01\Работа с классвми\Работа с классами(Консоль)\bin\Debug\Работа с классами(Консоль).exe
+C:\Users\305-8\Desktop\Zhbanchikov\УП 01.01\Работа с классвми\Работа с классами(Консоль)\bin\Debug\Работа с классами(Консоль).pdb
+C:\Users\305-8\Desktop\Zhbanchikov\УП 01.01\Работа с классвми\Работа с классами(Консоль)\obj\Debug\Работа с классами(Консоль).csproj.AssemblyReference.cache
+C:\Users\305-8\Desktop\Zhbanchikov\УП 01.01\Работа с классвми\Работа с классами(Консоль)\obj\Debug\Работа с классами(Консоль).csproj.CoreCompileInputs.cache
+C:\Users\305-8\Desktop\Zhbanchikov\УП 01.01\Работа с классвми\Работа с классами(Консоль)\obj\Debug\Работа с классами(Консоль).exe
+C:\Users\305-8\Desktop\Zhbanchikov\УП 01.01\Работа с классвми\Работа с классами(Консоль)\obj\Debug\Работа с классами(Консоль).pdb
